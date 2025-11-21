@@ -46,8 +46,8 @@ The owner of the pizza store wants to create a comprehensive report that analyze
 - <a href="https://github.com/vashnavikashaudhan24-svg/pizza-sales-analysis-powerbi-sql-excel/blob/main/Screenshot%20125325.png">Screenshot</a>
 - <a href="https://github.com/vashnavikashaudhan24-svg/pizza-sales-analysis-powerbi-sql-excel/blob/main/Screenshot%20125533.png">Screenshot</a>
 ### 8. 📝 Project Files
-- Pizza Sales Report.pbit: The Power BI template file.
-- PIZZA SALES SQL QUERIES.docx: All detailed SQL queries used for the analysis.
-- pizza_sales raw data.csv: The raw sales data used for analysis. 
-The final Power BI dashboard consists of two main pages (as seen in the screenshots):
-Page 1: Performance & Products
+- [Pizza Sales Report.pbit](https://github.com/vashnavikashaudhan24-svg/pizza-sales-analysis-powerbi-sql-excel/blob/main/Pizza%20Sales%20Report.pbit): The Power BI template file.
+- [PIZZA SALES SQL QUERIES.docx](https://github.com/vashnavikashaudhan24-svg/pizza-sales-analysis-powerbi-sql-excel/blob/main/PIZZA%20SALES%20SQL%20QUERIES.docx) All detailed SQL queries used for the analysis.
+- [pizza_sales raw data.csv](https://github.com/vashnavikashaudhan24-svg/pizza-sales-analysis-powerbi-sql-excel/blob/main/pizza_sales%20raw%20data.csv): The raw sales data used for analysis. 
+
+    
