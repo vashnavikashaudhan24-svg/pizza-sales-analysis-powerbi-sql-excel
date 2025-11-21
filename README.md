@@ -43,9 +43,8 @@ The owner of the pizza store wants to create a comprehensive report that analyze
 - Inventory Focus: The Classic category and Large size pizzas contribute the most to sales, ensuring adequate stock for these items is critical.
 - Actionable Strategy: The Brie Carre Pizza, identified as the lowest revenue generator, requires a clear promotional or price review strategy.
 ### 7. 🖼 Screenshots
-- <a href="https://github.com/vashnavikashaudhan24-svg/pizza-sales-analysis-powerbi-sql-excel/blob/main/Screenshot%20125325.png">Screenshot</a>
 ![Power BI Dashboard - Performance & Products](https://raw.githubusercontent.com/vashnavikaushadhan24-svg/pizza-sales-analysis-powerbi-sql-excel/main/Screenshot%20125325.png)
-- <a href="https://github.com/vashnavikashaudhan24-svg/pizza-sales-analysis-powerbi-sql-excel/blob/main/Screenshot%20125533.png">Screenshot</a>
+
 ![Power BI Dashboard - Trends & Segmentation](https://raw.githubusercontent.com/vashnavikaushadhan24-svg/pizza-sales-analysis-powerbi-sql-excel/main/Screenshot%20125533.png)
 ### 8. 📝 Project Files
 - [Pizza Sales Report.pbit](https://github.com/vashnavikashaudhan24-svg/pizza-sales-analysis-powerbi-sql-excel/blob/main/Pizza%20Sales%20Report.pbit): The Power BI template file.
